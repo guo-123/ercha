@@ -54,6 +54,6 @@ for i in range (4,-1,-1):
 #         if  a%b==0:
 #             c=c+b
 # print(c)
-
+lgkjaslg
 
 
